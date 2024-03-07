@@ -1,0 +1,75 @@
+#Style{
+    display: flex;
+    flex: content;
+    justify-content: center;
+    gap: 5%;
+}
+#Button{
+    color: antiquewhite;
+    background-color: blue;
+    width: 8%;  
+
+    
+}
+#Book{
+    color: antiquewhite;
+    background-color: blue;
+    
+}
+#image{
+    display: flex;
+    justify-content: space-around;
+}
+#Eco{
+
+    
+
+}
+screen{
+    display: flex;
+    flex: content;
+    justify-content: space-around;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#price{
+    text-align: center;
+}
+#button2{
+    color: antiquewhite;
+    background-color: blue;
+    width: 8%;
+    border-radius: 20px;
+}
+#Start{
+    display: flex;
+    justify-content: space-around;
+
+}
+#button1{
+    color: antiquewhite;
+    background-color: blue;
+}
+#test{
+    text-align: center;
+}
+#that{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#company{
+    display: flex;
+    justify-content: space-between;
+}
+#about{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media all and (max-width:500px){
+    body
+}
