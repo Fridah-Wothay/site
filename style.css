@@ -8,8 +8,6 @@
     color: antiquewhite;
     background-color: blue;
     width: 8%;  
-
-    
 }
 #Book{
     color: antiquewhite;
@@ -21,18 +19,13 @@
     justify-content: space-around;
 }
 #Eco{
-
-    
-
-}
-screen{
     display: flex;
     flex: content;
     justify-content: space-around;
 }
 .one{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around
     
 }
 #price{
@@ -69,7 +62,16 @@ screen{
     display: flex;
     justify-content: space-around;
 }
+.stars{
+    display: flex;
+}
+.fry{
+    display: flex;
+    justify-content: space-around;
+}
+
 
 @media all and (max-width:500px){
-    body
+body{}
 }
+    
